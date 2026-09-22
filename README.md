@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mamatha-m308&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mamatha-m308&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mamatha-m308&icon=0&color=blueviolet)](https://visitcount.itsvg.in)
 
 
